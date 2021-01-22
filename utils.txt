@@ -1,1 +1,1 @@
-utility function of version 3 of git
+utility function of version 6 of git
